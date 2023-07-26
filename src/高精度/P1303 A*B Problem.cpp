@@ -1,4 +1,4 @@
-//- [P1303 A*B Problem](https://www.luogu.com.cn/problem/P1303)
+// [P1303 A*B Problem](https://www.luogu.com.cn/problem/P1303)
 
 #include<iostream>
 #include<string>
