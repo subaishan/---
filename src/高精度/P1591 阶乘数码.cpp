@@ -1,3 +1,6 @@
+
+//- [P1591 阶乘数码](https://www.luogu.com.cn/problem/P1591)
+
 #include<iostream>
 #include<string>
 using namespace std;
